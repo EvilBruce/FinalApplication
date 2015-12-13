@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinalApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="names">
+        <item>LiMei</item>
+        <item>LinQiao</item>
+        <item>WiLee</item>
+        <item>BruceLee</item>
+        <item>AmberWu</item>
+        <item>YiKang</item>
+        <item>BruceWang</item>
+        <item>ShirlyWu</item>
+        <item>Kan</item>
+        <item>AmberWu</item>
+        <item>LiMei</item>
+        <item>LinQiao</item>
+        <item>WiLee</item>
+        <item>BruceLee</item>
+        <item>AmberWu</item>
+    </array>
+</resources>
